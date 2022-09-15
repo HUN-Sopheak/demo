@@ -1,0 +1,29 @@
+.container{
+    width: 760px;
+    /* background-color: crimson; */
+    margin: auto;
+    box-shadow: 12px 10px 20px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container h1{
+    margin-left: 25%;
+    color: darkblue;
+    text-shadow: 5px 5px 10px gray;
+}
+.container img{
+    margin-left: 15%;
+}
+.box{
+    width: 500px;
+    height: 100%;
+    border: 10px solid black;
+    margin-left: 13.8%;
+    border-radius: 25px;
+}
+.box p{
+    padding: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: crimson;
+}

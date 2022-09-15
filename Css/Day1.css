@@ -1,0 +1,8 @@
+.heading-shadow{
+    font-size: 100px;
+    color: crimson;
+    text-shadow: 10px 8px 10px black;
+    font-weight: bold;
+    /* background-color: aqua; */
+    /* font-family: Algerian; */
+}
